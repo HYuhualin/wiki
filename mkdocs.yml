@@ -1,0 +1,5 @@
+site_name: STUDY
+nav:
+ - Home: index.md
+ - First: About.md
+theme: readthedocs
